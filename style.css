@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+:root{
+    --primary-color:rgb(11, 11, 53);
+    --secondary-color:rgb(192, 225, 255);
+    
+    
+}
